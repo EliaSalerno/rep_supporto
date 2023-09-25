@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespaces TestDelegate
+namespace TestDelegate
 {
+
 	public delegate void MyDelegate(string msg);
+	
 	class Program
 	{
 		static void Main(string[] args)

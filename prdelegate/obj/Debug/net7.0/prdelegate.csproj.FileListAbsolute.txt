@@ -1,0 +1,5 @@
+/app/rep_supporto/prdelegate/obj/Debug/net7.0/prdelegate.csproj.AssemblyReference.cache
+/app/rep_supporto/prdelegate/obj/Debug/net7.0/prdelegate.GeneratedMSBuildEditorConfig.editorconfig
+/app/rep_supporto/prdelegate/obj/Debug/net7.0/prdelegate.AssemblyInfoInputs.cache
+/app/rep_supporto/prdelegate/obj/Debug/net7.0/prdelegate.AssemblyInfo.cs
+/app/rep_supporto/prdelegate/obj/Debug/net7.0/prdelegate.csproj.CoreCompileInputs.cache
