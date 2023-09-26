@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oDvB8KUO5c9uKtBv6Oc/mBcHLayVAfdr5ZE14Eg1pDMscVCYw70uzf+Czp76o+1WnqzziMENjYH1Nt5JbxDiEQ==",
+  "dgSpecHash": "2ex008hTZ+vfi5n4MgHtrm/RdQAoCTRLiHykbmlykNul9pXwCO1Yo5BP4iL+7t1Z6Mmy2Kvho+/7Dl49R77rkg==",
   "success": true,
-  "projectFilePath": "/app/rep_supporto/prdelegate/prdelegate.csproj",
+  "projectFilePath": "/app/prdelegate/prdelegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

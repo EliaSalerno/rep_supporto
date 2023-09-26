@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/app/rep_supporto/prdelegate/prdelegate.csproj": {}
+    "/app/prdelegate/prdelegate.csproj": {}
   },
   "projects": {
-    "/app/rep_supporto/prdelegate/prdelegate.csproj": {
+    "/app/prdelegate/prdelegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/app/rep_supporto/prdelegate/prdelegate.csproj",
+        "projectUniqueName": "/app/prdelegate/prdelegate.csproj",
         "projectName": "prdelegate",
-        "projectPath": "/app/rep_supporto/prdelegate/prdelegate.csproj",
+        "projectPath": "/app/prdelegate/prdelegate.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/app/rep_supporto/prdelegate/obj/",
+        "outputPath": "/app/prdelegate/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"

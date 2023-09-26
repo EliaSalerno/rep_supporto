@@ -9,9 +9,9 @@ namespace TestDelegate
 
 	public delegate void MyDelegate(string msg);
 	
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			MyDelegate del=ClassA.MethodA;
 			del("Hello World!");
@@ -21,17 +21,17 @@ namespace TestDelegate
 		}
 	}
 
-	class ClassA
+	public class ClassA
 	{
-		static void MethodA(string message)
+		public static void MethodA(string message)
 		{
 			Console.WriteLine("Called ClassA.Method() with parameter: "+message);
 		}
 	}
 
-	class ClassB
+	public class ClassB
 	{
-		static void MethodB(string message)
+		public static void MethodB(string message)
 		{
 			Console.WriteLine("Called ClassB.Method() with parameter: "+message);
 		}
