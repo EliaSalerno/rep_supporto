@@ -1,0 +1,15 @@
+/app/event_demo/obj/Debug/net7.0/event_demo.csproj.AssemblyReference.cache
+/app/event_demo/obj/Debug/net7.0/event_demo.GeneratedMSBuildEditorConfig.editorconfig
+/app/event_demo/obj/Debug/net7.0/event_demo.AssemblyInfoInputs.cache
+/app/event_demo/obj/Debug/net7.0/event_demo.AssemblyInfo.cs
+/app/event_demo/obj/Debug/net7.0/event_demo.csproj.CoreCompileInputs.cache
+/app/event_demo/bin/Debug/net7.0/event_demo
+/app/event_demo/bin/Debug/net7.0/event_demo.deps.json
+/app/event_demo/bin/Debug/net7.0/event_demo.runtimeconfig.json
+/app/event_demo/bin/Debug/net7.0/event_demo.dll
+/app/event_demo/bin/Debug/net7.0/event_demo.pdb
+/app/event_demo/obj/Debug/net7.0/event_demo.dll
+/app/event_demo/obj/Debug/net7.0/refint/event_demo.dll
+/app/event_demo/obj/Debug/net7.0/event_demo.pdb
+/app/event_demo/obj/Debug/net7.0/event_demo.genruntimeconfig.cache
+/app/event_demo/obj/Debug/net7.0/ref/event_demo.dll
