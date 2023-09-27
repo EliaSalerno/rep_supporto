@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/app/linq4/linq4.csproj": {}
+    "/app/rep_supporto/linq4/linq4.csproj": {}
   },
   "projects": {
-    "/app/linq4/linq4.csproj": {
+    "/app/rep_supporto/linq4/linq4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/app/linq4/linq4.csproj",
+        "projectUniqueName": "/app/rep_supporto/linq4/linq4.csproj",
         "projectName": "linq4",
-        "projectPath": "/app/linq4/linq4.csproj",
+        "projectPath": "/app/rep_supporto/linq4/linq4.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/app/linq4/obj/",
+        "outputPath": "/app/rep_supporto/linq4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
