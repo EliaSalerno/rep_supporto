@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/app/prog_dele/prog_dele.csproj",
+      "projectUniqueName": "/app/prog_dele1/prog_dele.csproj",
       "projectName": "prog_dele",
-      "projectPath": "/app/prog_dele/prog_dele.csproj",
+      "projectPath": "/app/prog_dele1/prog_dele.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/app/prog_dele/obj/",
+      "outputPath": "/app/prog_dele1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"

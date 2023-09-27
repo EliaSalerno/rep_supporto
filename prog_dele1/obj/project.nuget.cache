@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KXJ+W7gOD6L3zvzlilaCvvMCdmW3Adxd8/fKaEleeUNXDAzYL4ORbjanhYtFFyQkPla+aKyryF4JO1G9HxO7ZQ==",
+  "dgSpecHash": "1WTQsoaxZcMG5NyXXUFcKDMyJXF0OQAY7NLhLhw/rZGP9rB55xUEYABaOz5YkgM7HCJjaxdMiqGUNnjETE2d8Q==",
   "success": true,
-  "projectFilePath": "/app/prog_dele/prog_dele.csproj",
+  "projectFilePath": "/app/prog_dele1/prog_dele.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
