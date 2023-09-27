@@ -1,0 +1,15 @@
+/app/closer/obj/Debug/net7.0/closer.csproj.AssemblyReference.cache
+/app/closer/obj/Debug/net7.0/closer.GeneratedMSBuildEditorConfig.editorconfig
+/app/closer/obj/Debug/net7.0/closer.AssemblyInfoInputs.cache
+/app/closer/obj/Debug/net7.0/closer.AssemblyInfo.cs
+/app/closer/obj/Debug/net7.0/closer.csproj.CoreCompileInputs.cache
+/app/closer/bin/Debug/net7.0/closer
+/app/closer/bin/Debug/net7.0/closer.deps.json
+/app/closer/bin/Debug/net7.0/closer.runtimeconfig.json
+/app/closer/bin/Debug/net7.0/closer.dll
+/app/closer/bin/Debug/net7.0/closer.pdb
+/app/closer/obj/Debug/net7.0/closer.dll
+/app/closer/obj/Debug/net7.0/refint/closer.dll
+/app/closer/obj/Debug/net7.0/closer.pdb
+/app/closer/obj/Debug/net7.0/closer.genruntimeconfig.cache
+/app/closer/obj/Debug/net7.0/ref/closer.dll
