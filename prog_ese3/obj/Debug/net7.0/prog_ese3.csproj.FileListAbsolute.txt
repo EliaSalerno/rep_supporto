@@ -1,0 +1,15 @@
+/app/prog_ese3/bin/Debug/net7.0/prog_ese3
+/app/prog_ese3/bin/Debug/net7.0/prog_ese3.deps.json
+/app/prog_ese3/bin/Debug/net7.0/prog_ese3.runtimeconfig.json
+/app/prog_ese3/bin/Debug/net7.0/prog_ese3.dll
+/app/prog_ese3/bin/Debug/net7.0/prog_ese3.pdb
+/app/prog_ese3/obj/Debug/net7.0/prog_ese3.csproj.AssemblyReference.cache
+/app/prog_ese3/obj/Debug/net7.0/prog_ese3.GeneratedMSBuildEditorConfig.editorconfig
+/app/prog_ese3/obj/Debug/net7.0/prog_ese3.AssemblyInfoInputs.cache
+/app/prog_ese3/obj/Debug/net7.0/prog_ese3.AssemblyInfo.cs
+/app/prog_ese3/obj/Debug/net7.0/prog_ese3.csproj.CoreCompileInputs.cache
+/app/prog_ese3/obj/Debug/net7.0/prog_ese3.dll
+/app/prog_ese3/obj/Debug/net7.0/refint/prog_ese3.dll
+/app/prog_ese3/obj/Debug/net7.0/prog_ese3.pdb
+/app/prog_ese3/obj/Debug/net7.0/prog_ese3.genruntimeconfig.cache
+/app/prog_ese3/obj/Debug/net7.0/ref/prog_ese3.dll
