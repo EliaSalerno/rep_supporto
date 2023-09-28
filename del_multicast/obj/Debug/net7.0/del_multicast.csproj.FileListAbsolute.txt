@@ -1,0 +1,15 @@
+/app/del_multicast/obj/Debug/net7.0/del_multicast.csproj.AssemblyReference.cache
+/app/del_multicast/obj/Debug/net7.0/del_multicast.GeneratedMSBuildEditorConfig.editorconfig
+/app/del_multicast/obj/Debug/net7.0/del_multicast.AssemblyInfoInputs.cache
+/app/del_multicast/obj/Debug/net7.0/del_multicast.AssemblyInfo.cs
+/app/del_multicast/obj/Debug/net7.0/del_multicast.csproj.CoreCompileInputs.cache
+/app/del_multicast/bin/Debug/net7.0/del_multicast
+/app/del_multicast/bin/Debug/net7.0/del_multicast.deps.json
+/app/del_multicast/bin/Debug/net7.0/del_multicast.runtimeconfig.json
+/app/del_multicast/bin/Debug/net7.0/del_multicast.dll
+/app/del_multicast/bin/Debug/net7.0/del_multicast.pdb
+/app/del_multicast/obj/Debug/net7.0/del_multicast.dll
+/app/del_multicast/obj/Debug/net7.0/refint/del_multicast.dll
+/app/del_multicast/obj/Debug/net7.0/del_multicast.pdb
+/app/del_multicast/obj/Debug/net7.0/del_multicast.genruntimeconfig.cache
+/app/del_multicast/obj/Debug/net7.0/ref/del_multicast.dll
