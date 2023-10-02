@@ -1,0 +1,15 @@
+/app/Linq/ese_linq/bin/Debug/net7.0/ese_linq
+/app/Linq/ese_linq/bin/Debug/net7.0/ese_linq.deps.json
+/app/Linq/ese_linq/bin/Debug/net7.0/ese_linq.runtimeconfig.json
+/app/Linq/ese_linq/bin/Debug/net7.0/ese_linq.dll
+/app/Linq/ese_linq/bin/Debug/net7.0/ese_linq.pdb
+/app/Linq/ese_linq/obj/Debug/net7.0/ese_linq.csproj.AssemblyReference.cache
+/app/Linq/ese_linq/obj/Debug/net7.0/ese_linq.GeneratedMSBuildEditorConfig.editorconfig
+/app/Linq/ese_linq/obj/Debug/net7.0/ese_linq.AssemblyInfoInputs.cache
+/app/Linq/ese_linq/obj/Debug/net7.0/ese_linq.AssemblyInfo.cs
+/app/Linq/ese_linq/obj/Debug/net7.0/ese_linq.csproj.CoreCompileInputs.cache
+/app/Linq/ese_linq/obj/Debug/net7.0/ese_linq.dll
+/app/Linq/ese_linq/obj/Debug/net7.0/refint/ese_linq.dll
+/app/Linq/ese_linq/obj/Debug/net7.0/ese_linq.pdb
+/app/Linq/ese_linq/obj/Debug/net7.0/ese_linq.genruntimeconfig.cache
+/app/Linq/ese_linq/obj/Debug/net7.0/ref/ese_linq.dll

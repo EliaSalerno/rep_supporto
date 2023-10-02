@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/app/ese_linq/ese_linq.csproj": {}
+    "/app/Linq/ese_linq/ese_linq.csproj": {}
   },
   "projects": {
-    "/app/ese_linq/ese_linq.csproj": {
+    "/app/Linq/ese_linq/ese_linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/app/ese_linq/ese_linq.csproj",
+        "projectUniqueName": "/app/Linq/ese_linq/ese_linq.csproj",
         "projectName": "ese_linq",
-        "projectPath": "/app/ese_linq/ese_linq.csproj",
+        "projectPath": "/app/Linq/ese_linq/ese_linq.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/app/ese_linq/obj/",
+        "outputPath": "/app/Linq/ese_linq/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
