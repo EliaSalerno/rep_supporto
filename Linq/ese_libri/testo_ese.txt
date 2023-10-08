@@ -1,0 +1,15 @@
+Utilizzando Linq Implementare i seguenti metodi:
+Q1: Visualizzare tutti i libri di un autore specifico passato come parametro al metodo.
+Q2: Visualizzare il titolo e anno di pubblicazione dei libri che costano più di 20€.
+Q3: Visualizzare tutte le info dei libri con prezzo compreso tra 30.00€ e 60.00€ ordinati per anno di
+pubblicazione decrescente.
+Q5: Titolo prezzo e anno di pubblicazione dei libri ordinati per prezzo decrescente e a parità di prezzo
+per anno di pubblicazione crescente.
+Q6: Visualizzare per ogni anno di pubblicazione il titolo dei libri pubblicati e il relativo prezzo (
+Raggruppamento)
+Q7: Per ogni anno di pubblicazione visualizzare il prezzo minimo e il prezzo medio dei libri ( Usare i
+raggruppamenti)
+JOIN
+Q8: Dato il nome e il cognome di un autore il titolo, l'anno di pubblicazione e il prezzo dei suoi libri
+Q9: Il titolo dei libri pubblicati dagli editori della città di Milano
+Q10: Il titolo l’anno di pubblicazione ed il prezzo dei libri pubblicati da un dato editore

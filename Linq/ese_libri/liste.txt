@@ -1,0 +1,73 @@
+public class Autore
+{
+ public int IdAutore { get; set; }
+ public string Cognome { get; set; } // =null!;
+ public string Nome { get; set; } // =null!;
+ 
+// public overrid string ToString()
+// {
+//  return string.Format($"[IdAutore={IdAutore},Cognome={Cognome},Nome={Nome}]");
+// }
+}
+
+public class Editore
+{
+ public int IdEditore { get; set; }
+ public string NomeCasaEditrice { get; set; }
+ public string Città { get; set; }
+}
+
+public class Libro
+{
+ public int IdLibro { get; set; }
+ public string Titolo { get; set; }
+ public int FkAutore { get; set; }
+ public int AnnoPubblicazione { get; set; }
+ public int FkEditore { get; set; }
+ public double Prezzo { get; set; }
+}
+
+List<Autore> Autori = new List<Autore>()
+{
+ new Autore() { IdAutore = 1, Cognome = "Manzoni", Nome = "Alessandro" },
+ new Autore() { IdAutore = 2, Cognome = "Leopardi", Nome = "Giacomo" },
+ new Autore() { IdAutore = 3, Cognome = "Alighieri", Nome = "Dante" },
+ new Autore() { IdAutore = 4, Cognome = "Foscolo", Nome = "Ugo" },
+ new Autore() { IdAutore = 5, Cognome = "Verga", Nome = "Giovanni" },
+ new Autore() { IdAutore = 6, Cognome = "Pirandello", Nome = "Luigi" },
+ new Autore() { IdAutore = 7, Cognome = "Svevo", Nome = "Italo" },
+ new Autore() { IdAutore = 8, Cognome = "D'Annunzio", Nome = "Gabriele" },
+ new Autore() { IdAutore = 9, Cognome = "Ferrante", Nome = "Elena" },
+};
+
+List<Editore> Editori = new List<Editore>() {
+ new Editore() { IdEditore = 1, NomeCasaEditrice = "Mondadori", Città = "Milano" },
+ new Editore { IdEditore = 2, NomeCasaEditrice = "Rizzoli", Città = "Milano" },
+ new Editore { IdEditore = 3, NomeCasaEditrice = "Einaudi", Città = "Torino" },
+ new Editore { IdEditore = 4, NomeCasaEditrice = "Feltrinelli", Città = "Milano" },
+ new Editore { IdEditore = 5, NomeCasaEditrice = "Hoepli” Città = "Milano" }
+};
+
+List<Libro> Libri = new List<Libro>()
+{
+ new Libro(1, "I promessi sposi", 1, 1827, 1, 10.00),
+ new Libro(2, "Canti", 2, 1818, 1, 15.00),
+ new Libro(3, "I Sepolcri", 3, 1807, 1, 20.00),
+ new Libro(4, "Le Operette morali", 2, 1827, 2, 25.00),
+ new Libro(5, "La Divina Commedia", 2, 1304, 2, 30.00), 
+ new Libro(6, "Le Ultime lettere di Jacopo Ortis", 3, 1809, 1, 35.00),
+ new Libro(7, "I Malavoglia", 6, 1881, 2, 40.00),
+ new Libro(8, "Sei personaggi in cerca d'autore", 5, 1921, 3, 45.00),
+ new Libro(9, "La coscienza di zeno", 3, 1923, 4, 50.00),
+ new Libro(10, "Il piacere", 8, 1889, 5, 55.00),
+ new Libro(11, "L'amica geniale", 9, 2011, 5, 60.00),
+ new Libro(12, "Il nome della rosa", 1, 1980, 2, 65.00),
+ new Libro(13, "Il Gattopardo", 2, 1958, 2, 70.00),
+ new Libro(14, "La storia", 3, 1972, 5, 75.00),
+ new Libro(15, "Il conformista", 4, 1951, 3, 80.00),
+ new Libro(16, "Uomini e no", 5, 1951, 3, 85.00),
+ new Libro(17, "La cognizione del dolore", 6, 1963, 2, 90.00),
+ new Libro(18, "La stanza di Giovanni", 7, 1978, 3, 95.00),
+ new Libro(19, "Il gioco dell'angelo", 8, 1979, 4, 100.00),
+ new Libro(20, "I giorni dell'abbandono", 9, 2002, 2, 105.00),
+};
