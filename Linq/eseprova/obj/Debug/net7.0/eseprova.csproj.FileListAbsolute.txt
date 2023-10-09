@@ -1,0 +1,5 @@
+/app/rep_supporto/Linq/eseprova/obj/Debug/net7.0/eseprova.csproj.AssemblyReference.cache
+/app/rep_supporto/Linq/eseprova/obj/Debug/net7.0/eseprova.GeneratedMSBuildEditorConfig.editorconfig
+/app/rep_supporto/Linq/eseprova/obj/Debug/net7.0/eseprova.AssemblyInfoInputs.cache
+/app/rep_supporto/Linq/eseprova/obj/Debug/net7.0/eseprova.AssemblyInfo.cs
+/app/rep_supporto/Linq/eseprova/obj/Debug/net7.0/eseprova.csproj.CoreCompileInputs.cache
