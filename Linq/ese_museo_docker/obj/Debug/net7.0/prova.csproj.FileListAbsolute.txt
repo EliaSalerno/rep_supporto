@@ -13,3 +13,17 @@
 /home/prova/obj/Debug/net7.0/prova.pdb
 /home/prova/obj/Debug/net7.0/prova.genruntimeconfig.cache
 /home/prova/obj/Debug/net7.0/ref/prova.dll
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\bin\Debug\net7.0\prova.exe
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\bin\Debug\net7.0\prova.deps.json
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\bin\Debug\net7.0\prova.runtimeconfig.json
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\bin\Debug\net7.0\prova.dll
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\bin\Debug\net7.0\prova.pdb
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\obj\Debug\net7.0\prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\obj\Debug\net7.0\prova.AssemblyInfoInputs.cache
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\obj\Debug\net7.0\prova.AssemblyInfo.cs
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\obj\Debug\net7.0\prova.csproj.CoreCompileInputs.cache
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\obj\Debug\net7.0\prova.dll
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\obj\Debug\net7.0\refint\prova.dll
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\obj\Debug\net7.0\prova.pdb
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\obj\Debug\net7.0\prova.genruntimeconfig.cache
+C:\Users\ELIADONATOSALERNO\Desktop\rep_supporto\Linq\ese_museo_docker\obj\Debug\net7.0\ref\prova.dll
