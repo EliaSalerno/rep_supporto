@@ -1,0 +1,15 @@
+/home/prova/obj/Debug/net7.0/prova.csproj.AssemblyReference.cache
+/home/prova/obj/Debug/net7.0/prova.GeneratedMSBuildEditorConfig.editorconfig
+/home/prova/obj/Debug/net7.0/prova.AssemblyInfoInputs.cache
+/home/prova/obj/Debug/net7.0/prova.AssemblyInfo.cs
+/home/prova/obj/Debug/net7.0/prova.csproj.CoreCompileInputs.cache
+/home/prova/bin/Debug/net7.0/prova
+/home/prova/bin/Debug/net7.0/prova.deps.json
+/home/prova/bin/Debug/net7.0/prova.runtimeconfig.json
+/home/prova/bin/Debug/net7.0/prova.dll
+/home/prova/bin/Debug/net7.0/prova.pdb
+/home/prova/obj/Debug/net7.0/prova.dll
+/home/prova/obj/Debug/net7.0/refint/prova.dll
+/home/prova/obj/Debug/net7.0/prova.pdb
+/home/prova/obj/Debug/net7.0/prova.genruntimeconfig.cache
+/home/prova/obj/Debug/net7.0/ref/prova.dll
