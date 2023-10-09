@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/app/rep_supporto/Linq/ese_museo/ese_museo.csproj": {}
+    "C:\\Users\\ELIADONATOSALERNO\\Desktop\\rep_supporto\\Linq\\ese_museo\\ese_museo.csproj": {}
   },
   "projects": {
-    "/app/rep_supporto/Linq/ese_museo/ese_museo.csproj": {
+    "C:\\Users\\ELIADONATOSALERNO\\Desktop\\rep_supporto\\Linq\\ese_museo\\ese_museo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/app/rep_supporto/Linq/ese_museo/ese_museo.csproj",
+        "projectUniqueName": "C:\\Users\\ELIADONATOSALERNO\\Desktop\\rep_supporto\\Linq\\ese_museo\\ese_museo.csproj",
         "projectName": "ese_museo",
-        "projectPath": "/app/rep_supporto/Linq/ese_museo/ese_museo.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/app/rep_supporto/Linq/ese_museo/obj/",
+        "projectPath": "C:\\Users\\ELIADONATOSALERNO\\Desktop\\rep_supporto\\Linq\\ese_museo\\ese_museo.csproj",
+        "packagesPath": "C:\\Users\\ELIADONATOSALERNO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ELIADONATOSALERNO\\Desktop\\rep_supporto\\Linq\\ese_museo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ELIADONATOSALERNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
