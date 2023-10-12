@@ -1,0 +1,9 @@
+1. Caricate l'alfabeto in un array, chiedete in input di quanto
+dovete farlo slittare secondo la logica del codice di cesare.
+Generate così un nuovo array slittato.
+2. Inserite una frase e il numero di slittamento e convertite
+la frase con il nuovo alfabeto frutto dello slittamento.
+3. Utilizzando la logica della "Brutal Force", provate a risolvere
+un messaggio cifrato, proponendo tutte le possibili soluzioni. 
+p.s.: ovviamente è stato generato con un alfabeto cifrato con il 
+codice di cesare):
