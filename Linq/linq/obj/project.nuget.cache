@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hRwKkgxgWCIRvczOxdf9t3aOeskEt9PWq/mNoi/5fXh//ECI1fVIYU5Xq2LjmaBncoJ3Y+j49nqTeUMSpBy4Ww==",
+  "dgSpecHash": "G3R9MmAePDfqvmt/WUPXeKzsHyYXykNM8lZM+o3OeIw4mM64KfrLCoFX4AnDOrIj8ZjBQW0J+KcHiLtJsLtUHw==",
   "success": true,
-  "projectFilePath": "/app/linq/linq.csproj",
+  "projectFilePath": "/app/rep_supporto/Linq/linq/linq.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

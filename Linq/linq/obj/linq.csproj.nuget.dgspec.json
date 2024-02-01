@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/app/linq/linq.csproj": {}
+    "/app/rep_supporto/Linq/linq/linq.csproj": {}
   },
   "projects": {
-    "/app/linq/linq.csproj": {
+    "/app/rep_supporto/Linq/linq/linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/app/linq/linq.csproj",
+        "projectUniqueName": "/app/rep_supporto/Linq/linq/linq.csproj",
         "projectName": "linq",
-        "projectPath": "/app/linq/linq.csproj",
+        "projectPath": "/app/rep_supporto/Linq/linq/linq.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/app/linq/obj/",
+        "outputPath": "/app/rep_supporto/Linq/linq/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
         }
       }
     }

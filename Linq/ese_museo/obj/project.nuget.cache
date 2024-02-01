@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ApoD+J+Q9EH8PHXOTitWCYkl9QVJ0SZiLn/uZOFxF5vyfW0yVtBrfzIYSOtWwFyKti0CRFCPogGvEki7DDpdg==",
+  "dgSpecHash": "3/sT7eW0SpXfJWugCEIAJm8G9AWvOIrsstvr1NlIusQ+rcPLbqnKJgtMgIgKfR5xkwmVc8tkhXFmSINUNMrjSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ELIADONATOSALERNO\\Desktop\\rep_supporto\\Linq\\ese_museo\\ese_museo.csproj",
+  "projectFilePath": "/app/rep_supporto/Linq/ese_museo/ese_museo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

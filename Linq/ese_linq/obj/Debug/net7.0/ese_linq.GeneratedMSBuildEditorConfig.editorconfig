@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ese_linq
-build_property.ProjectDir = /app/Linq/ese_linq/
+build_property.ProjectDir = /app/rep_supporto/Linq/ese_linq/

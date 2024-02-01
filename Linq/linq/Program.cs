@@ -15,5 +15,6 @@ namespace ArgomentiAvanzati
           foreach (var name in myLinqQuery)
               Console.Write(name + " ");
       }
+      Console.Write("\n");
   }
 }
